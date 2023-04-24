@@ -98,3 +98,16 @@ h1 {
     align-items: center;
     text-align: center;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-weight: light;
+    color: #1F2937;
+    padding: 120px 270px;
+}
+
+#winona {
+    text-align: right;
+    font-size: 28px;
+}
