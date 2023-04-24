@@ -58,3 +58,43 @@ button {
 .food-image {
     width: 400px;
 }
+
+.content2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    margin: 50px;
+}
+
+.images {
+    display: flex;
+    column-gap: 45px;
+}
+
+.dishes {
+    width: 150px;
+    border: solid dodgerblue;
+    border-radius: 15px;
+    display:flex;
+}
+
+.food {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 80px;
+}
+
+.food div {
+    margin: 10px;
+    color: #43464B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
