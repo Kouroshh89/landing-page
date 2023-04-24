@@ -142,3 +142,10 @@ h1 {
 .left {
     margin-right: auto;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
