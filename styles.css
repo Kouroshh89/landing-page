@@ -44,7 +44,7 @@
     padding: 10px 0;
 }
 
-button {
+.sign-up1 {
     background-color: #3882F6;
     font-size: 18px;
     font-weight: bold;
@@ -110,4 +110,35 @@ h1 {
 #winona {
     text-align: right;
     font-size: 28px;
+}
+
+.card {
+    background-color: #3882F6;
+    margin: 100px 200px;
+    padding: 45px 120px;
+    border-radius: 8px;
+    display: flex;
+}
+
+.sign-up2 {
+    background-color: #3882F6;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    padding: 8px 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: solid white;
+}
+
+.left p {
+    color: white;
+}
+
+.text1 {
+    font-size: 24px;
+}
+
+.left {
+    margin-right: auto;
 }
