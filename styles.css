@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+* {
+    font-family: 'Roboto', sans-serif;
+}
 
 * {
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-}
-
-body {
-    font-family: 'Roboto', sans-serif;
 }
 
 .header {
@@ -107,7 +106,7 @@ h1 {
 .quote-section {
     background-color: #E5E7EB;
     font-size: 36px;
-    font-weight: light;
+    font-weight: 300;
     color: #1F2937;
     padding: 120px 270px;
 }
@@ -128,7 +127,7 @@ h1 {
 .sign-up2 {
     background-color: #3882F6;
     font-size: 18px;
-    font-weight: bold;
+    font-weight: 700;
     color: white;
     padding: 8px 30px;
     margin-top: 10px;
